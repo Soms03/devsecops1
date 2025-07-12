@@ -67,7 +67,7 @@ The game implements the following rules:
    yarn
    ```
 
-3. Start the development server:
+3. Start the development server to test locally(localhost):
    ```bash
    npm run dev
    # or
